@@ -5,7 +5,7 @@ Using ERC1155D as a base for efficient gas savings. Minting costs are reduced, a
 
 ## Tech
 
-- [Brownie] - Testing and deployment using python, cuz why not
+- [Brownie] - Testing and deployment using python, cuz why not. More info on [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
 
 ## ERC1155D
-Info on ERC1155D is [!here](https://medium.com/donkeverse/introducing-erc1155d-the-most-efficient-non-fungible-token-contract-in-existence-c1d0a62e30f1)
+Info on ERC1155D is [here](https://medium.com/donkeverse/introducing-erc1155d-the-most-efficient-non-fungible-token-contract-in-existence-c1d0a62e30f1)
